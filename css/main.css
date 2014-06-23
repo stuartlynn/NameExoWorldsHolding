@@ -91,3 +91,20 @@ a:link, a:visited {
   margin:0 auto;
   width:300px;
 }
+
+ul{
+	list-style: none;
+}
+ul.spaced li{
+	margin-bottom: 10px;
+}
+
+
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: rgba(0,0,0,0.7);
+}
+
+
+.nav>li>a:hover, .nav>li>a:focus{
+	background-color: rgba(1,1,1,0.4)
+}
