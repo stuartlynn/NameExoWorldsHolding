@@ -1,5 +1,5 @@
 require "pry"
-data = IO.read("final_planet_list/Planet list -Table 1.csv").split("\r\n").collect{|a| a.split(",")}.select{|a| a.length>2}
+data = IO.read("ExoWorlds_list_sorted_7_final 2/Planet list -Table 1.csv").split("\r\n").collect{|a| a.split(",")}.select{|a| a.length>2}
 
 names = data[0]
 units  = data[1]
