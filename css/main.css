@@ -105,6 +105,12 @@ ul.spaced li{
 }
 
 
+.table thead td{
+		color:#3881C0;
+
+}
+
+
 .nav>li>a:hover, .nav>li>a:focus{
 	background-color: rgba(1,1,1,0.4)
 }
