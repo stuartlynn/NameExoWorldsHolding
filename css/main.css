@@ -114,3 +114,15 @@ ul.spaced li{
 .nav>li>a:hover, .nav>li>a:focus{
 	background-color: rgba(1,1,1,0.4)
 }
+
+tr.section{
+	border : none;
+	color  : #3881C0;
+	text-align: center;
+	font-size: 20px
+
+}
+
+tr.section>td{
+	boder: none
+}
