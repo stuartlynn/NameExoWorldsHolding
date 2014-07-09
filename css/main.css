@@ -126,3 +126,7 @@ tr.section{
 tr.section>td{
 	boder: none
 }
+
+.navbar-nav {
+  margin: 2px 0 0 0;
+}
