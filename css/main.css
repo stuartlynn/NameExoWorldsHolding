@@ -110,6 +110,13 @@ ul.spaced li{
 
 }
 
+.navbar-toggle {
+	background: rgba(128, 128, 128, 0.3)
+}
+
+.navbar-toggle .icon-bar {
+	background: currentColor;
+}
 
 .nav>li>a:hover, .nav>li>a:focus{
 	background-color: rgba(1,1,1,0.4)
